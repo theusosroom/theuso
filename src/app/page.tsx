@@ -40,7 +40,6 @@ export default function IndexPage() {
             </h2>
             <p className="text-lg text-slate-600 leading-relaxed">
               Boas vindas ao meu site! Aqui você pode encontrar as minhas traduções de mods do The Sims 4 e também conteúdo personalizado criado para o jogo.
-            <br></br> Página em construção.
             </p>
           </div>
 
