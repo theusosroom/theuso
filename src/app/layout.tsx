@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   title: "Theuso | Traduções e Conteúdo Personalizado",
   description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
   openGraph: {
-    title: "Theuso | Projetos e Mods",
+    title: "Theuso | Traduções e Conteúdo Personalizado",
     description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
     url: "https://seusite.com.br",
     siteName: "Theuso",
     images: [
       {
-        url: "/og-image.jpg", // A imagem que aparecerá no WhatsApp/Discord/Twitter
+        url: "public/thumb site theuso.webp", // A imagem que aparecerá no WhatsApp/Discord/Twitter
         width: 1200,
         height: 630,
         alt: "Capa do site Theuso",
