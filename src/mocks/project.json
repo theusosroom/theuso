@@ -4,63 +4,72 @@
     "title": "Tradução Mod Khlas Males Interactions",
     "description": "Tradução oficial do mod Khlas Males Interactions, que adiciona novas interações para Sims homens.",
     "imageUrl": "https://i.imgur.com/uPWNGAD.png",
-    "link": "https://www.patreon.com/posts/traducao-pt-br-1-117965326"
+    "link": "https://www.patreon.com/posts/traducao-pt-br-1-117965326",
+    "tags": ["Tradução"]
   },
   {
     "id": 2,
     "title": "Tradução Mod Cuddle and Bath Together",
     "description": "Tradução oficial do mod Cuddle and Bath Together de Khlas, que conta com uma nova interação romântica nas banheiras.",
     "imageUrl": "https://i.imgur.com/ydO8yms.png",
-    "link": "https://www.patreon.com/posts/traducao-pt-br-1-117329903"
+    "link": "https://www.patreon.com/posts/traducao-pt-br-1-117329903",
+    "tags": ["Tradução"]
   },
   {
     "id": 3,
     "title": "Tradução Mod Motorbikes",
     "description": "Tradução oficial do mod Motorbikes de Hiole, que traz dois modelos clássicos e a possibilidade de tirar uma carteira de habilitação",
     "imageUrl": "https://i.imgur.com/Qt94ANM.png",
-    "link": "https://www.patreon.com/posts/traducao-pt-br-154703315"
+    "link": "https://www.patreon.com/posts/traducao-pt-br-154703315",
+    "tags": ["Tradução"]
   },
    {
     "id": 4,
     "title": "Camisetas do System of a Down",
     "description": "Camisetas inspiradas na banda System of a Down, com designs 100% em Simlish e em dois modelos: regata oversized e cropped.",
     "imageUrl": "https://i.imgur.com/OO3uazO.png",
-    "link": "https://www.patreon.com/posts/camisetas-do-of-142834805"
+    "link": "https://www.patreon.com/posts/camisetas-do-of-142834805",
+    "tags": ["Criar-um-Sim"]
   },
   {
     "id": 5,
     "title": "Camiseta de Rede, Sem Faixa!",
     "description": "Modificação na camiseta de rede do Kit Moda Bloco de Carnaval, removendo a faixa que tampava os peitos dos Sims homens.",
     "imageUrl": "https://i.imgur.com/r0vF6N8.png",
-    "link": "https://www.tumblr.com/theusosroomcc/675841061360386048/i-just-updated-it-to-fix-some-minor-issues-with"
+    "link": "https://www.tumblr.com/theusosroomcc/675841061360386048/i-just-updated-it-to-fix-some-minor-issues-with",
+    "tags": ["Criar-um-Sim"]
   },
   {
     "id": 6,
     "title": "Barba sLumberjack",
     "description": "Barba do The Sims 4 criada com base em outra barba do jogo, com a adição de um bigode.",
     "imageUrl": "https://i.imgur.com/bXn9DdT.png",
-    "link": "https://www.tumblr.com/theusosroomcc/661809480184528896/the-slumberjack-beard-facial-hair"
+    "link": "https://www.tumblr.com/theusosroomcc/661809480184528896/the-slumberjack-beard-facial-hair",
+    "tags": ["Criar-um-Sim"]
   },
   {
     "id": 7,
     "title": "Barba Mark + Override do Bigode Pontudo",
     "description": "Nova barba criada por mim, além de sobreposição para bigode pontudo da expansão Gatos e Cães.",
     "imageUrl": "https://i.imgur.com/Sjps6E4.png",
-    "link": "https://www.tumblr.com/theusosroomcc/652551517598105600/mark-moustache-beard-facial-hair"
+    "link": "https://www.tumblr.com/theusosroomcc/652551517598105600/mark-moustache-beard-facial-hair",
+    "tags": ["Criar-um-Sim"]
   },
   {
     "id": 8,
     "title": "Beliche dos Adultos Sofisticados",
     "description": "Beliche criada com base na Cama dos Adultos Sofisticados.",
     "imageUrl": "https://i.imgur.com/PClyGxI.png",
-    "link": "https://www.tumblr.com/theusosroomcc/646766537966026752/sophisticated-adult-bunk-bed"
+    "link": "https://www.tumblr.com/theusosroomcc/646766537966026752/sophisticated-adult-bunk-bed",
+    "tags": ["Modo Construção"]
   },
   {
     "id": 9,
     "title": "Xbox Series X|S",
     "description": "Versões dos consoles Xbox Series para o The Sims 4, completamente funcionais e com 6 variações de cores para cada modelo.",
     "imageUrl": "https://i.imgur.com/cTeaMZO.png",
-    "link": "https://modthesims.info/d/647736/xbox-series-x-and-series-s-gaming-consoles-now-base-game-compatible.html"
+    "link": "https://modthesims.info/d/647736/xbox-series-x-and-series-s-gaming-consoles-now-base-game-compatible.html",
+    "tags": ["Modo Construção"]
   }
 
 ]
