@@ -1,23 +1,34 @@
-export default function HomePage() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-6 bg-slate-50">
-      <section className="max-w-2xl text-center space-y-6">
-        <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-6xl">
-          Bem-vindo ao Matheus
-        </h1>
-        <p className="text-lg text-slate-600">
-          Frontend na Vercel conectado diretamente ao Supabase.
-        </p>
+import { ContentCard } from "@/components/ContentCard";
+import projectsData from "@/mocks/project.json";
 
-        <div className="flex gap-4 justify-center">
-          <button className="px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors">
-            Começar agora
-          </button>
-          <button className="px-6 py-3 border border-slate-300 rounded-lg font-medium hover:bg-slate-100 transition-colors">
-            Saiba mais
-          </button>
-        </div>
-      </section>
-    </main>
+interface Project {
+  id: number;
+  title: string;
+  description: string;
+  imageUrl: string;
+  link: string;
+}
+
+export default function IndexPage() {
+    const projects = projectsData as Project[];
+
+  return (
+    <section className="container mx-auto px-4 py-16">
+      <header className="mb-12">
+        <h1 className="text-4xl font-black text-slate-900">Projetos em Destaque</h1>
+      </header>
+
+      <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        {projects.map((project) => (
+          <ContentCard 
+            key={project.id}
+            title={project.title}
+            description={project.description}
+            imageUrl={project.imageUrl}
+            link={project.link}
+          />
+        ))}
+      </div>
+    </section>
   );
 }

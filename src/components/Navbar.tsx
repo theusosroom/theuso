@@ -5,7 +5,7 @@ export function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b bg-white/80 backdrop-blur-md">
       <nav className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="text-xl font-bold tracking-tighter text-blue-600">
-          The Sims
+          Theuso.
         </Link>
 
         <div className="flex items-center gap-6 text-sm font-medium text-slate-600">
