@@ -9,7 +9,7 @@ export function Navbar() {
         </Link>
 
         <div className="flex items-center gap-6 text-sm font-medium text-slate-600">
-          <Link href="/projetos" className="hover:text-blue-600 transition-colors">Projetos</Link>
+          <Link href="/projetos" className="hover:text-blue-600 transition-colors">Patreon</Link>
           <Link href="/sobre" className="hover:text-blue-600 transition-colors">Sobre</Link>
           <button className="rounded-full bg-slate-900 px-4 py-2 text-white hover:bg-slate-800 transition-all active:scale-95">
             Entrar
