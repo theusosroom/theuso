@@ -1,9 +1,45 @@
 [
   {
     "id": 1,
-    "title": "Projeto 1",
-    "description": "Desc...",
+    "title": "Tradução Mod XYZ ABC",
+    "description": "Tradução oficial do mod XYZ, que traz novas interações voltadas para Sims XYZ.",
     "imageUrl": "https://picsum.photos/800/600",
     "link": "/1"
+  },
+   {
+    "id": 2,
+    "title": "Camisetas do System of a Down",
+    "description": "Camisetas inspiradas na banda System of a Down, com designs 100% em Simlish e em dois modelos: regata oversized e cropped.",
+    "imageUrl": "https://i.imgur.com/OO3uazO.png",
+    "link": "https://www.patreon.com/posts/camisetas-do-of-142834805"
+  },
+  {
+    "id": 3,
+    "title": "Edit da Camiseta de Rede do Kit Moda Bloco de Carnaval",
+    "description": "Modificação na camiseta de rede do Kit Moda Bloco de Carnaval, removendo a faixa que tampava os peitos dos Sims homens.",
+    "imageUrl": "https://i.imgur.com/r0vF6N8.png",
+    "link": "/1"
+  },
+  {
+    "id": 4,
+    "title": "Barba sLumberjack",
+    "description": "Barba do The Sims 4 criada com base em outra barba do jogo, com a adição de um bigode.",
+    "imageUrl": "https://i.imgur.com/bXn9DdT.png",
+    "link": "/1"
+  },
+  {
+    "id": 5,
+    "title": "Beliche dos Adultos Sofisticados",
+    "description": "Beliche criada com base na Cama dos Adultos Sofisticados.",
+    "imageUrl": "https://i.imgur.com/PClyGxI.png",
+    "link": "/1"
+  },
+  {
+    "id": 6,
+    "title": "Barba Mark + Override do Bigode do Gatos e Cães",
+    "description": "Nova barba criada por mim, além de sobreposição para bigode pontudo da expansão Gatos e Cães.",
+    "imageUrl": "https://i.imgur.com/Sjps6E4.png",
+    "link": "/1"
   }
+
 ]

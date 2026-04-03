@@ -6,11 +6,11 @@ import { Footer } from "@/components/Footer";
 // Configuração de SEO e Compartilhamento (Substitui as tags <head> do HTML)
 export const metadata: Metadata = {
   title: "Theuso | Traduções e Conteúdo Personalizado",
-  description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
+  description: "Veja o catálogo das minhas criações para o The Sims 4, que incluem traduções de mods e conteúdos personalizados criados por mim.",
   openGraph: {
     title: "Theuso | Traduções e Conteúdo Personalizado",
-    description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
-    url: "https://seusite.com.br",
+    description: "Veja o catálogo das minhas criações para o The Sims 4, que incluem traduções de mods e conteúdos personalizados criados por mim.",
+    url: "https://theuso.rio.br",
     siteName: "Theuso",
     images: [
       {
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Theuso | Projetos e Mods",
-    description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
+    title: "Theuso | Traduções e Conteúdo Personalizado",
+    description: "Veja o catálogo das minhas criações para o The Sims 4, que incluem traduções de mods e conteúdos personalizados criados por mim.",
     images: ["https://i.imgur.com/OwqNUoo.png"],
   },
 };
