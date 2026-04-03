@@ -41,7 +41,7 @@ export function ContentCard({ title, description, imageUrl, link }: CardProps) {
           href={link || "#"}
           className="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-700"
         >
-          Ver detalhes <span className="ml-1">→</span>
+          Detalhes e Download <span className="ml-1">→</span>
         </Link>
       </div>
     </article>

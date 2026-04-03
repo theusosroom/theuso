@@ -1,44 +1,65 @@
 [
   {
     "id": 1,
-    "title": "Tradução Mod XYZ ABC",
-    "description": "Tradução oficial do mod XYZ, que traz novas interações voltadas para Sims XYZ.",
+    "title": "Tradução Mod Khlas Males Interactions",
+    "description": "Tradução oficial do mod Khlas Males Interactions, que adiciona novas interações para Sims homens.",
+    "imageUrl": "https://i.imgur.com/uPWNGAD.png",
+    "link": "/1"
+  },
+  {
+    "id": 2,
+    "title": "Tradução Mod Cuddle and Bath Together",
+    "description": "Tradução oficial do mod Cuddle and Bath Together de Khlas, que conta com uma nova interação romântica nas banheiras.",
+    "imageUrl": "https://i.imgur.com/ydO8yms.png",
+    "link": "/1"
+  },
+  {
+    "id": 3,
+    "title": "Tradução Mod Motorbikes",
+    "description": "Tradução oficial do mod Motorbikes de Hiole, que traz dois modelos clássicos e a possibilidade de tirar uma carteira de habilitação",
     "imageUrl": "https://picsum.photos/800/600",
     "link": "/1"
   },
    {
-    "id": 2,
+    "id": 4,
     "title": "Camisetas do System of a Down",
     "description": "Camisetas inspiradas na banda System of a Down, com designs 100% em Simlish e em dois modelos: regata oversized e cropped.",
     "imageUrl": "https://i.imgur.com/OO3uazO.png",
     "link": "https://www.patreon.com/posts/camisetas-do-of-142834805"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Edit da Camiseta de Rede do Kit Moda Bloco de Carnaval",
     "description": "Modificação na camiseta de rede do Kit Moda Bloco de Carnaval, removendo a faixa que tampava os peitos dos Sims homens.",
     "imageUrl": "https://i.imgur.com/r0vF6N8.png",
     "link": "/1"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Barba sLumberjack",
     "description": "Barba do The Sims 4 criada com base em outra barba do jogo, com a adição de um bigode.",
     "imageUrl": "https://i.imgur.com/bXn9DdT.png",
     "link": "/1"
   },
   {
-    "id": 5,
+    "id": 7,
+    "title": "Barba Mark + Override do Bigode do Gatos e Cães",
+    "description": "Nova barba criada por mim, além de sobreposição para bigode pontudo da expansão Gatos e Cães.",
+    "imageUrl": "https://i.imgur.com/Sjps6E4.png",
+    "link": "/1"
+  },
+  {
+    "id": 8,
     "title": "Beliche dos Adultos Sofisticados",
     "description": "Beliche criada com base na Cama dos Adultos Sofisticados.",
     "imageUrl": "https://i.imgur.com/PClyGxI.png",
     "link": "/1"
   },
   {
-    "id": 6,
-    "title": "Barba Mark + Override do Bigode do Gatos e Cães",
-    "description": "Nova barba criada por mim, além de sobreposição para bigode pontudo da expansão Gatos e Cães.",
-    "imageUrl": "https://i.imgur.com/Sjps6E4.png",
+    "id": 9,
+    "title": "Xbox Series X|S",
+    "description": "Versões dos consoles Xbox Series para o The Sims 4, completamente funcionais e com 6 variações de cores para cada modelo.",
+    "imageUrl": "https://i.imgur.com/cTeaMZO.png",
     "link": "/1"
   }
 
