@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     siteName: "Theuso",
     images: [
       {
-        url: "public/thumb site theuso.webp", // A imagem que aparecerá no WhatsApp/Discord/Twitter
+        url: "https://i.imgur.com/OwqNUoo.png", // A imagem que aparecerá no WhatsApp/Discord/Twitter
         width: 1200,
         height: 630,
         alt: "Capa do site Theuso",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Theuso | Projetos e Mods",
     description: "Portfólio de projetos e mods desenvolvidos por Theuso.",
-    images: ["/og-image.jpg"],
+    images: ["https://i.imgur.com/OwqNUoo.png"],
   },
 };
 
