@@ -121,7 +121,7 @@ export default function IndexPage() {
               href="https://theusosroomcc.tumblr.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex h-12 w-12 items-center justify-center rounded-full bg-slate-100 text-slate-600 transition-all hover:scale-110 hover:bg-[#4B3688] hover:text-white"
+              className="flex h-12 w-12 items-center justify-center rounded-full bg-slate-100 text-slate-600 transition-all hover:scale-110 hover:bg-[#001935] hover:text-white"
               aria-label="Tumblr"
             >
               <svg
